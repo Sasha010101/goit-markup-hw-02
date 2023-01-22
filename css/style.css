@@ -17,10 +17,16 @@
 
 body {
 font-family: "Roboto",sans-serif;
-    
+weight: 500px;
+font-size: 20px;
+line-height: calc(24 / 20);
+color: var(--primary-txt-cl) ;
 }
+/* reset style */
 .link{
     text-decoration: none;
+    color: currentColor;
+  
 }
 /* Header */
 .header {
@@ -43,7 +49,7 @@ font-family: "Roboto",sans-serif;
 
 
 .link {
-
+    
 }
 .header-nav {
 
@@ -52,6 +58,13 @@ font-family: "Roboto",sans-serif;
 
 }
 .header-link {
+    Font family: Roboto
+Font size: 16px
+Line height: calc(24 / 16)
+Line height: 1.2
+Align: Left
+Vertical align: Top
+Letter spacing: 2%
 
 }
 .header-contact {
