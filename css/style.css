@@ -1,0 +1,103 @@
+:root{
+    /* Fonts */
+    --primary-fonts:;
+    --secondary-fonts:;
+    /* Text colors */
+    --primary-txt-cl: #2E2F42;
+    --secondary-txt-cl:#434455;
+    --accent-txt-cl:#4D5AE5;
+    /* BG colors */
+     --primary-bg-cl: #FFFFFF;
+     --accent-bg-cl:#4D5AE5;
+     /* Others */
+}
+
+
+
+
+body {
+font-family: "Roboto",sans-serif;
+    
+}
+.link{
+    text-decoration: none;
+}
+/* Header */
+.header {
+   
+
+}
+.header-logo {
+
+
+}
+.header-logo:hover, 
+.header-logo:focus,
+.header-logo:active {
+   
+   
+
+} 
+ 
+
+
+
+.link {
+
+}
+.header-nav {
+
+}
+.list {
+
+}
+.header-link {
+
+}
+.header-contact {
+
+
+}
+.header-email {
+
+}
+/* Filters */
+.filters-item {
+
+}
+
+.filters-button {
+
+}
+/* HERO */
+.row-list {
+
+}
+
+.row-item {
+
+}
+
+.row-img {
+
+}
+
+.row-uppertitle {
+
+}
+
+.row-name {
+
+}
+/* Footer */
+.footer {
+   
+
+}
+
+.footer-logo {}
+
+.footer-text {
+   
+    
+}
