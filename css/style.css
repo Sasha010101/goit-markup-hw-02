@@ -46,12 +46,17 @@ body {
 .header-item {}
 
 .header-link {
+font-weight: 500;
+font-size: 16px;
+line-height: calc(24 / 16);
 color: var(--primary-txt-cl);
 
 }
 
 
 .header-mail {
+font-size: 16px;
+line-height: calc(24 / 16);
 color: var(--primary-txt-cl);
 }
 .header-mail:hover,
@@ -60,6 +65,8 @@ color: var(--primary-txt-cl);
 }
 
 .header-contact {
+font-size: 16px;
+line-height: calc(24 / 16);
 color: var(--primary-txt-cl);
 }
 .header-contact:hover,
@@ -217,6 +224,8 @@ text-decoration: none;
 
 
 .header-contact {
+font-size: 16px;
+line-height: calc(24 / 16);
 color:var(--primary-txt-cl);
 text-decoration: none;
 
@@ -227,6 +236,8 @@ color: var(--accent-txt-cl);
 } 
 
 .header-email {
+font-size: 16px;
+line-height: calc(24 / 16);
 color:var(--primary-txt-cl);
 text-decoration: none;
 
